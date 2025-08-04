@@ -1,12 +1,14 @@
 <h3>Navigation Menu</h3>
 <ul>
- <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
- <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
- <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
- <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
- <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
- <li><a href="CodeExamples.md">CodeExamples</a></li>
+<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
+  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
+  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
+  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
+  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
+  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
+  <li><a href="CodeExamples.md">CodeExamples</a></li>
 </ul>
+### Skip to Module 2:  <a href="Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
 
 ---
 # PART 3: Registers and the Memory Map
@@ -138,6 +140,8 @@ Let’s say Pin A2 can be either GPIO or UART_TX.
 | Pin Multiplexing           | One pin, many possible roles                |
 | Datasheet vs Reference Manual | Hardware features vs Register-level detail |
 
-Next up: We’ll learn how to navigate datasheets and interpret the register maps with confidence.
+We’ll soon learn how to navigate datasheets and interpret the register maps with confidence.
+
+Next Up: <a href="P4_Datasheets&RefManuals.md">Module 1 - Part 4 | Datasheets and Reference Manuals</a>
 
 ---

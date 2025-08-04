@@ -1,12 +1,14 @@
 <h3>Navigation Menu</h3>
 <ul>
- <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
- <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
- <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
- <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
- <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
- <li><a href="CodeExamples.md">CodeExamples</a></li>
+<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
+  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
+  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
+  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
+  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
+  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
+  <li><a href="CodeExamples.md">CodeExamples</a></li>
 </ul>
+### Skip to Module 2:  <a href="Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
 
 ---
 # PART 4: Understanding Datasheets and Reference Manuals
@@ -155,5 +157,8 @@ These addresses are used in your code like this:
 | Reference Manual| Program the MCU at the register level       |
 | SFR Map         | Match address with function/peripheral      |
 | Register Fields | Control and configure hardware behaviour    |
+
+
+Next Up: <a href="P5_ToolchainOverview.md">Module 1 - Part 5 | Introduction to the Embedded Toolchain</a>
 
 ---

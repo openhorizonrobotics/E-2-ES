@@ -1,13 +1,3 @@
-<h3>Navigation Menu</h3>
-<ul>
- <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
- <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
- <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
- <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
- <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li> 
- <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
-</ul>
-
 # CODE EXAMPLES
 
 > **Note:** Register names are from the STM32F1 reference manual, so it's crucial to have the [STM32F103x8 Reference Manual](https://www.st.com/resource/en/reference_manual/cd00171190.pdf) open while reading.
@@ -236,4 +226,8 @@ int main() {
 	}  
 }
 ```
+
+
+Back to <a href="P5_ToolchainOverview.md">Module 1 - Part 5</a>
+
 ---
