@@ -1,3 +1,4 @@
+
 <h3>Navigation Menu</h3>
 <ul>
 <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
@@ -9,7 +10,7 @@
   <li><a href="CodeExamples.md">CodeExamples</a></li>
 </ul>
 
-### Skip to Module 2:  <a href="Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
+### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
 
 ---
 

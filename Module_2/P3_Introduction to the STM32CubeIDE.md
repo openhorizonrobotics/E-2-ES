@@ -1,5 +1,6 @@
 <h3>Navigation Menu</h3>
-### **Back to  Module 1:** <a href="Module_1/Learning%20Outcomes.md">Module 1 - Learning Outcomes</a>
+
+### **Back to  Module 1:** <a href="../Module_1/Learning%20Outcomes.md">Module 1 - Learning Outcomes</a>
 
 ### **Module 2:**
 <ul>
@@ -15,7 +16,6 @@
   <li><a href="Timer_PrescalerMath.md">Timer Math</a></li>
   <li><a href="Flashing%20The%20Blue%20Pill%20With%20A%20Cheap%20STLink%20Clone.md">Flashing The Blue Pill With A Cheap ST-Link Clone</a></li>
 </ul>
-
 
 Congratulations, dear reader. You now know what a toolchain is, you’ve heard rumors of compilers and linkers, and you’re wondering when the magic starts. Good news — we’re here.
 

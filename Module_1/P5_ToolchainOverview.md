@@ -1,3 +1,4 @@
+
 <h3>Navigation Menu</h3>
 <ul>
 <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
@@ -9,7 +10,7 @@
   <li><a href="CodeExamples.md">CodeExamples</a></li>
 </ul>
 
-### Skip to Module 2:  <a href="Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
+### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
 
 ---
 # PART 5: Toolchain Overview: From Code to Microcontroller
@@ -195,7 +196,7 @@ $(CC) $(CFLAGS) -T linker.ld -o $@ $^
 | Debugger         | Lets you inspect and test code   |
 | IDE/Build System | Automates the workflow           |
 
-Next Up: <a href="Module_2/Learning%20Outcomes.md">Jump to Module 2</a>
+Next Up: <a href="../Module_2/Learning%20Outcomes.md">Jump to Module 2</a>
 
 **OR**
 
