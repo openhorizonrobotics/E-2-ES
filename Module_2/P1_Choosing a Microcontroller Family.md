@@ -110,6 +110,6 @@
 - Stick to one family until you're confident with peripherals, registers, and toolchains.
 - If unsure, go with STM32 — it's widely used, well-supported, and scales from beginner to professional use. That’s what I’ll be doing throughout the remainder of this course.
 
-Next Up: <a href="P2_Introduction%20to%20the%20Embedded%20Toolchain.md">Module 2 - Part 2 | Dive Into the Embedded Toolchain</a>
+Next Up: <a href="P2_Dive%20Into%20the%20Embedded%20Toolchain.md">Module 2 - Part 2 | Dive Into the Embedded Toolchain</a>
 
 ---
