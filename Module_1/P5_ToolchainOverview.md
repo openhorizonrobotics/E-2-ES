@@ -1,5 +1,5 @@
 
-<h3>Navigation Menu</h3>
+<h2>Navigation Menu</h2>
 <ul>
 <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
   <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
