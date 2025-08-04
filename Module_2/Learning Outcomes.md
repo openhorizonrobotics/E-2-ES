@@ -1,5 +1,9 @@
 <h3>Navigation Menu</h3>
+### **Back to  Module 1:** <a href="Module_1/Learning%20Outcomes.md">Module 1 - Learning Outcomes</a>
+
+### **Module 2:**
 <ul>
+  <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
   <li><a href="P1_Choosing%20a%20Microcontroller%20Family.md">P1 - Choosing a Microcontroller Family</a></li>
   <li><a href="P2_Introduction%20to%20the%20Embedded%20Toolchain.md">P2 - Introduction to the Embedded Toolchain</a></li>
   <li><a href="P3_Introduction%20to%20the%20STM32CubeIDE.md">P3 - Introduction to the STM32CubeIDE</a></li>
@@ -28,5 +32,7 @@
    - Configure and utilize interrupts
    - Generate Pulse Width Modulated Waves
    - Implement SPI, I2C, UART
+
+Next Up: <a href="P1_Choosing%20a%20Microcontroller%20Family.md">Module 2 - Part 1 | Choosing a Microcontroller Familu</a>
 
 ---

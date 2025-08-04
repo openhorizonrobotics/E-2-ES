@@ -238,4 +238,6 @@ Here’s what you should walk away with:
 
 **Let’s fire up STM32CubeIDE and write the world’s smallest main() in the next section.**
 
+Next Up: <a href="P3_Introduction%20to%20the%20STM32CubeIDE.md">Module 2 - Part 3 | Introduction to the STM32 CubeIDE</a>
+
 ---

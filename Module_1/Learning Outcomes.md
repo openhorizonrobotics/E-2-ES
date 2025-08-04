@@ -8,7 +8,8 @@
   <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
   <li><a href="CodeExamples.md">CodeExamples</a></li>
 </ul>
-### Skip to Module 2:  <a href="Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
+
+### Skip to Module 2:  <a href="Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
 
 ---
 
