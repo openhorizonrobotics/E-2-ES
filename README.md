@@ -18,9 +18,13 @@ Whether you're a student, an engineer returning to the basics, or a robotics ent
 
 > All content is structured in **progressive modules** with annotated code examples and original diagrams.
 
-**Click here to jump to your desired module!**
+**Click here to jump to your desired module in the Repository!**
 <li><a href="Module_1/Learning%20Outcomes.md">Module 1: Thinking Like an Embedded Engineer</a></li>
 <li><a href="Module_2/Learning%20Outcomes.md">Module 2: Talking to Hardware</a></li>
+
+**OR**
+
+Read the content in the [wiki](https://github.com/openhorizonrobotics/E-2-ES/wiki/02.-Module1_WhatIsBareMetalProgramming)!
 
 ---
 ## Course Structure
