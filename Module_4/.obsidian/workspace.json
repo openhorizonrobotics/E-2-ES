@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7717e5db3b0dc524",
+    "id": "673ac28813136c1d",
     "type": "split",
     "children": [
       {
-        "id": "e93aa04b11abb4e5",
+        "id": "4a07edc81d0081f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e79a3559abd70a2e",
+            "id": "5b5664d1e006f5d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03. Memory Failures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03. Memory Failures"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cce41e3db61199ea",
+    "id": "129d196c4ae1f7ba",
     "type": "split",
     "children": [
       {
-        "id": "fe5467eeaa774ac5",
+        "id": "76e3cd8920af178e",
         "type": "tabs",
         "children": [
           {
-            "id": "d542eafd98981f5f",
+            "id": "6902951d3b54628d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d544b7d269c016ac",
+            "id": "b59b1520509cd0a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "910b8f2ec9464bed",
+            "id": "b5b171ea5957b164",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
-    "id": "c3727ebc841f4ae6",
+    "id": "0350778f873e96cb",
     "type": "split",
     "children": [
       {
-        "id": "b2c50929fbe28a4e",
+        "id": "8dc7ba8df97bc6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b160d12bff2114",
+            "id": "1f000e65c41dd5d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00. Module Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 00. Module Objectives"
             }
           },
           {
-            "id": "c8d11bfb60fee372",
+            "id": "1ce925bf7b3c671a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00. Module Objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 00. Module Objectives"
             }
           },
           {
-            "id": "51603d3a7f392ee3",
+            "id": "57a7f844706ac2a7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "f9e69ce6d9a04a99",
+            "id": "69430f567ef1aeed",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "81948d3a5f834ee5",
+            "id": "d7b0abdbe1f736eb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "00. Module Objectives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 00. Module Objectives"
             }
           }
         ]
@@ -183,41 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "d542eafd98981f5f",
+  "active": "5b5664d1e006f5d7",
   "lastOpenFiles": [
-    "Module_4/Assets/9.jpg",
-    "Module_4/Assets/8.jpg",
-    "Module_4/Assets/7.jpg",
-    "Module_4/Assets/6.jpg",
-    "Module_4/Assets/5.png",
-    "Module_4/Assets/5.jpg",
-    "Module_4/Assets/4.jpg",
-    "Module_4/Assets/3.jpg",
-    "Module_4/Assets/2.jpg",
-    "Module_4/Assets/1.jpg",
-    "Module_4/Assets",
-    "Module_4/03. Memory Failures.md",
-    "Module_4/02. Memory at Runtime.md",
-    "Module_4/01. Memory Architecture and Layout.md",
-    "Module_4/00. Module Objectives.md",
-    "Module_4",
-    "ESS_Module4/03. Memory Failures.md",
-    "ESS_Module4/00. Module Objectives.md",
-    "ESS_Module4/02. Memory at Runtime.md",
-    "ESS_Module4/Assets/8.jpg",
-    "ESS_Module4/Assets",
-    "ESS_Module4/01. Memory Architecture and Layout.md",
-    "ESS_Module4",
-    "Module_3/Assets",
-    "Module_3/03. A Debugging Case Study.md",
-    "Module_3/02. Hardware Level Debugging.md",
-    "Module_3/01. The Nature of Embedded Debugging.md",
-    "Module_3",
-    "ESS_Module3/01. The Nature of Embedded Debugging.md",
-    "ESS_Module3/03. A Debugging Case Study.md",
-    "ESS_Module3/02. Hardware Level Debugging.md",
-    "ESS_Module3/Assets",
-    "ESS_Module3",
-    "README.md"
+    "02. Memory at Runtime.md",
+    "01. Memory Architecture and Layout.md",
+    "00. Module Objectives.md",
+    "Assets/8.jpg",
+    "Assets/7.jpg",
+    "Assets/6.jpg",
+    "Assets/4.jpg",
+    "Assets/3.jpg",
+    "Assets/1.jpg",
+    "03. Memory Failures.md",
+    "Assets/9.jpg",
+    "Assets/8.png",
+    "Assets/7.png",
+    "Assets/6.png",
+    "02. Memory at Runtime",
+    "Welcome.md",
+    "Assets"
   ]
 }
