@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Module_3/01. The Nature of Embedded Debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01. The Nature of Embedded Debugging"
             }
           }
         ]
@@ -184,5 +184,9 @@
     }
   },
   "active": "e79a3559abd70a2e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Module_4/01. Memory Architecture and Layout.md",
+    "Module_3/01. The Nature of Embedded Debugging.md"
+  ]
 }
