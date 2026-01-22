@@ -1,18 +1,4 @@
 
-<h2>Navigation Menu</h2>
-<ul>
-<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
-  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
-  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
-  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
-  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
-  <li><a href="CodeExamples.md">CodeExamples</a></li>
-</ul>
-
-### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
-
----
 # PART 5: Toolchain Overview: From Code to Microcontroller
 
 Bare-metal programming requires a toolchain that transforms your C/C++ source code into machine code and deploys it to your microcontroller. This section gives a structured overview of each part in the pipeline.
@@ -195,11 +181,5 @@ $(CC) $(CFLAGS) -T linker.ld -o $@ $^
 | Flash Tool       | Uploads your binary to the MCU   |
 | Debugger         | Lets you inspect and test code   |
 | IDE/Build System | Automates the workflow           |
-
-Next Up: <a href="../Module_2/Learning%20Outcomes.md">Jump to Module 2</a>
-
-**OR**
-
-Check out some <a href="CodeExamples.md">code examples</a> to familiarise yourself.
 
 ---

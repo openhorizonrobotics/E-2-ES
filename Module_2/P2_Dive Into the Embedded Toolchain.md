@@ -1,22 +1,3 @@
-<h2>Navigation Menu</h2>
-
-### **Back to  Module 1:** <a href="../Module_1/Learning%20Outcomes.md">Module 1 - Learning Outcomes</a>
-
-### **Module 2:**
-<ul>
-  <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_Choosing%20a%20Microcontroller%20Family.md">P1 - Choosing a Microcontroller Family</a></li>
-  <li><a href="P2_Dive%20Into%20the%20Embedded%20Toolchain.md">P2 - Dive Into the Embedded Toolchain</a></li>
-  <li><a href="P3_Introduction%20to%20the%20STM32CubeIDE.md">P3 - Introduction to the STM32CubeIDE</a></li>
-  <li><a href="P4_Becoming%20Familiar%20With%20the%20Embedded%20Workflow.md">P4 - Becoming Familiar With the Embedded Workflow</a></li>
-  <li><a href="P5_Embedded%20Engineering%20In%20Practice.md">P5 - Embedded Engineering In Practice</a></li>
-</ul>
-<h3>Supplementary Guides</h3>
-<ul>
-  <li><a href="Timer_PrescalerMath.md">Timer Math</a></li>
-  <li><a href="Flashing%20The%20Blue%20Pill%20With%20A%20Cheap%20STLink%20Clone.md">Flashing The Blue Pill With A Cheap ST-Link Clone</a></li>
-</ul>
-
 ### Understanding Toolchains
 
 If you've ever wondered how your C code turns into blinking lights and spinning motors, here's the scoop: there's a magical (and often confusing) chain of tools working behind the scenes to make that happen. This section pulls back the curtain.
@@ -238,7 +219,5 @@ Here’s what you should walk away with:
 - STM32CubeIDE is our tool of choice — because it’s practical, friendly, and lets you focus on learning embedded concepts instead of playing DevOps.
 
 **Let’s fire up STM32CubeIDE and write the world’s smallest main() in the next section.**
-
-Next Up: <a href="P3_Introduction%20to%20the%20STM32CubeIDE.md">Module 2 - Part 3 | Introduction to the STM32 CubeIDE</a>
 
 ---

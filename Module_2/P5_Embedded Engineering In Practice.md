@@ -1,22 +1,3 @@
-<h2>Navigation Menu</h2>
-
-### **Back to  Module 1:** <a href="../Module_1/Learning%20Outcomes.md">Module 1 - Learning Outcomes</a>
-
-### **Module 2:**
-<ul>
-  <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_Choosing%20a%20Microcontroller%20Family.md">P1 - Choosing a Microcontroller Family</a></li>
-  <li><a href="P2_Dive%20Into%20the%20Embedded%20Toolchain.md">P2 - Dive Into the Embedded Toolchain</a></li>
-  <li><a href="P3_Introduction%20to%20the%20STM32CubeIDE.md">P3 - Introduction to the STM32CubeIDE</a></li>
-  <li><a href="P4_Becoming%20Familiar%20With%20the%20Embedded%20Workflow.md">P4 - Becoming Familiar With the Embedded Workflow</a></li>
-  <li><a href="P5_Embedded%20Engineering%20In%20Practice.md">P5 - Embedded Engineering In Practice</a></li>
-</ul>
-<h3>Supplementary Guides</h3>
-<ul>
-  <li><a href="Timer_PrescalerMath.md">Timer Math</a></li>
-  <li><a href="Flashing%20The%20Blue%20Pill%20With%20A%20Cheap%20STLink%20Clone.md">Flashing The Blue Pill With A Cheap ST-Link Clone</a></li>
-</ul>
-
 You've just had your brain gently cooked learning how to configure microcontrollers at the register level. That was important. You saw the guts. But now, we're shifting gears.
 
 Here's the deal: writing register-level code for every single peripheral is exhausting and impractical for most real-world projects.
@@ -794,7 +775,7 @@ And here's what the Pitch Value looks like after having gone through this chain.
 
 ### Concept
 
-An **Analog-to-Digital Converter (ADC)** on the STM32 Blue Pill takes a continuously varying voltage (analog signal) from a pin—such as from a potentiometer—and transforms it into a digital value that the microcontroller can use in software.
+An **Analog-to-Digital Converter (ADC)** on the STM32 Blue Pill takes a continuously varying voltage (analog signal) from a pin, such as from a potentiometer, and transforms it into a digital value that the microcontroller can use in software.
 
 - The ADC acts like a ruler for voltage: it measures the input voltage level (between 0V and the board’s reference, typically 3.3V on a Blue Pill) and assigns it a number.
 - The Blue Pill’s 12-bit ADC divides the voltage range into 4,096 steps (from 0 to 4,095).

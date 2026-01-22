@@ -1,21 +1,3 @@
-<h2>Navigation Menu</h2>
-
-### **Back to  Module 1:** <a href="../Module_1/Learning%20Outcomes.md">Module 1 - Learning Outcomes</a>
-
-### **Module 2:**
-<ul>
-  <li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_Choosing%20a%20Microcontroller%20Family.md">P1 - Choosing a Microcontroller Family</a></li>
-  <li><a href="P2_Dive%20Into%20the%20Embedded%20Toolchain.md">P2 - Dive Into the Embedded Toolchain</a></li>
-  <li><a href="P3_Introduction%20to%20the%20STM32CubeIDE.md">P3 - Introduction to the STM32CubeIDE</a></li>
-  <li><a href="P4_Becoming%20Familiar%20With%20the%20Embedded%20Workflow.md">P4 - Becoming Familiar With the Embedded Workflow</a></li>
-  <li><a href="P5_Embedded%20Engineering%20In%20Practice.md">P5 - Embedded Engineering In Practice</a></li>
-</ul>
-<h3>Supplementary Guides</h3>
-<ul>
-  <li><a href="Timer_PrescalerMath.md">Timer Math</a></li>
-  <li><a href="Flashing%20The%20Blue%20Pill%20With%20A%20Cheap%20STLink%20Clone.md">Flashing The Blue Pill With A Cheap ST-Link Clone</a></li>
-</ul>
 
 **A microcontroller family refers to a group of microcontrollers that share the same core architecture (like ARM Cortex-M or AVR), development tools, instruction set, and often peripheral naming conventions. Choosing a family early on helps you build transferable skills and consistent development habits.**
 
@@ -109,7 +91,5 @@
 - Start with a dev board to avoid hardware setup frustrations.
 - Stick to one family until you're confident with peripherals, registers, and toolchains.
 - If unsure, go with STM32 — it's widely used, well-supported, and scales from beginner to professional use. That’s what I’ll be doing throughout the remainder of this course.
-
-Next Up: <a href="P2_Dive%20Into%20the%20Embedded%20Toolchain.md">Module 2 - Part 2 | Dive Into the Embedded Toolchain</a>
 
 ---

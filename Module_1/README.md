@@ -1,19 +1,3 @@
-
-<h2>Navigation Menu</h2>
-<ul>
-<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
-  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
-  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
-  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
-  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
-  <li><a href="CodeExamples.md">CodeExamples</a></li>
-</ul>
-
-### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
-
----
-
 # Learning Outcomes – Module 1: Foundations of Bare-Metal Programming
 
 By the end of this module, you’ll be able to:
@@ -51,7 +35,5 @@ By the end of this module, you’ll be able to:
   - Startup files
   - Flashing tools
   - Debuggers
-
-Next Up: <a href="P1_WhatIsBareMetalProgramming.md">Module 1 - Part 1 | What Is Bare Metal Programming?</a>
 
 ---

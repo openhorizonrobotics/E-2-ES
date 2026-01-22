@@ -1,18 +1,3 @@
-
-<h2>Navigation Menu</h2>
-<ul>
-<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
-  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
-  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
-  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
-  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
-  <li><a href="CodeExamples.md">CodeExamples</a></li>
-</ul>
-
-### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
-
----
 # PART 3: Registers and the Memory Map
 
 We've already taken a look at the registers and the memory map in P1. Here, we'll see a different perspective. To control a microcontroller at the bare-metal level, you must interact with registers—special memory addresses that directly control hardware behavior. Understanding the memory map of your microcontroller is what lets you blink an LED, configure a timer, or read from a sensor.
@@ -143,7 +128,5 @@ Let’s say Pin A2 can be either GPIO or UART_TX.
 | Datasheet vs Reference Manual | Hardware features vs Register-level detail |
 
 We’ll soon learn how to navigate datasheets and interpret the register maps with confidence.
-
-Next Up: <a href="P4_Datasheets&RefManuals.md">Module 1 - Part 4 | Datasheets and Reference Manuals</a>
 
 ---

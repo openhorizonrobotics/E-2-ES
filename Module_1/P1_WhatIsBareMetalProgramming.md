@@ -1,19 +1,3 @@
-
-<h2>Navigation Menu</h2>
-<ul>
-<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
-  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
-  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
-  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
-  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
-  <li><a href="CodeExamples.md">CodeExamples</a></li>
-</ul>
-
-### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
-
----
-
 # PART 1: What is Bare-Metal Programming?
 
 When you write **bare-metal code**, you're writing software that runs directly on the hardware—no operating system, no abstraction layers. It's as close to the metal as you can get.
@@ -388,8 +372,6 @@ volatile uint32_t* gpio = (uint32_t*)0x48000014;
 ```
 
 Now you know that bare-metal programming gives you direct control over microcontroller hardware by working without an operating system or abstraction layers. Understanding foundational concepts like registers, bitwise operations, memory maps, pointers, and the `volatile` keyword is essential for building efficient, reliable, and high-performance embedded systems.
-
-Next Up: <a href="P2_AnatomyOfAMicrocontroller.md">Module 1 - Part 2 | Anatomy of a Microcontroller</a>
 
 ---
 

@@ -1,18 +1,4 @@
 
-<h2>Navigation Menu</h2>
-<ul>
-<li><a href="Learning%20Outcomes.md">Learning Outcomes</a></li>
-  <li><a href="P1_WhatIsBareMetalProgramming.md">P1_WhatIsBareMetalProgramming</a></li>
-  <li><a href="P2_AnatomyOfAMicrocontroller.md">P2_AnatomyOfAMicrocontroller</a></li>
-  <li><a href="P3_Registers&MemoryMap.md">P3_Registers&MemoryMap</a></li>
-  <li><a href="P4_Datasheets&RefManuals.md">P4_Datasheets&RefManuals</a></li>
-  <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
-  <li><a href="CodeExamples.md">CodeExamples</a></li>
-</ul>
-
-### Skip to Module 2:  <a href="../Module_2/Learning%20Outcomes.md">Module 2 - Learning Outcomes</a>
-
----
 # PART 2: Anatomy of a Microcontroller
 
 Before we can program a microcontroller at the register level, we need to understand how it's internally organised. This section breaks down a typical MCU block diagram and explains the essential building blocks you'll encounter across most platforms (like STM32, AVR, MSP430, etc.).
@@ -157,8 +143,5 @@ Take a datasheet for your microcontroller (e.g., [STM32F103C8](https://www.st.co
 - **Number of GPIOs**
 - **Available peripherals**
 - **Pin multiplexing options**
-
-
-Next Up: <a href="P3_Registers&MemoryMap.md">Module 1 - Part 3 | Registers and the Memory Map</a>
 
 ---

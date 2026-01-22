@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_1/README.md",
+                "file": "Module_4/03. Memory Failures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03. Memory Failures"
             }
           }
         ]
@@ -185,13 +185,27 @@
   },
   "active": "e79a3559abd70a2e",
   "lastOpenFiles": [
-    "Module_3/01. The Nature of Embedded Debugging.md",
+    "Module_4/02. Memory at Runtime.md",
+    "Module_4/03. Memory Failures.md",
+    "Module_4/01. Memory Architecture and Layout.md",
     "Module_3/03. A Debugging Case Study.md",
     "Module_3/02. Hardware Level Debugging.md",
-    "Module_4/README.md",
+    "Module_3/01. The Nature of Embedded Debugging.md",
+    "Module_2/Timer_PrescalerMath.md",
     "Module_2/README.md",
+    "Module_2/P5_Embedded Engineering In Practice.md",
+    "Module_2/P4_Becoming Familiar With the Embedded Workflow.md",
+    "Module_2/P3_Introduction to the STM32CubeIDE.md",
+    "Module_2/P2_Dive Into the Embedded Toolchain.md",
+    "Module_2/P1_Choosing a Microcontroller Family.md",
+    "Module_2/Flashing The Blue Pill With A Cheap STLink Clone.md",
     "Module_1/README.md",
+    "Module_1/P5_ToolchainOverview.md",
+    "Module_1/P4_Datasheets&RefManuals.md",
+    "Module_1/P3_Registers&MemoryMap.md",
+    "Module_1/P2_AnatomyOfAMicrocontroller.md",
     "Module_1/P1_WhatIsBareMetalProgramming.md",
+    "Module_4/README.md",
     "README.md",
     "Module_4/Assets/9.jpg",
     "Module_4/Assets/8.jpg",
@@ -204,9 +218,6 @@
     "Module_4/Assets/2.jpg",
     "Module_4/Assets/1.jpg",
     "Module_4/Assets",
-    "Module_4/03. Memory Failures.md",
-    "Module_4/02. Memory at Runtime.md",
-    "Module_4/01. Memory Architecture and Layout.md",
     "Module_4",
     "ESS_Module4/03. Memory Failures.md",
     "ESS_Module4/00. Module Objectives.md",
@@ -216,9 +227,6 @@
     "ESS_Module4",
     "Module_3/Assets",
     "Module_3",
-    "ESS_Module3/01. The Nature of Embedded Debugging.md",
-    "ESS_Module3/03. A Debugging Case Study.md",
-    "ESS_Module3/02. Hardware Level Debugging.md",
     "ESS_Module3/Assets",
     "ESS_Module3"
   ]
