@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_4/03. Memory Failures.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Memory Failures"
+              "title": "README"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "e79a3559abd70a2e",
   "lastOpenFiles": [
-    "Module_4/02. Memory at Runtime.md",
+    "Module_3/Assets/1.jpg",
+    "Module_3/01. The Nature of Embedded Debugging.md",
     "Module_4/03. Memory Failures.md",
+    "Module_4/02. Memory at Runtime.md",
     "Module_4/01. Memory Architecture and Layout.md",
     "Module_3/03. A Debugging Case Study.md",
     "Module_3/02. Hardware Level Debugging.md",
-    "Module_3/01. The Nature of Embedded Debugging.md",
     "Module_2/Timer_PrescalerMath.md",
     "Module_2/README.md",
     "Module_2/P5_Embedded Engineering In Practice.md",
@@ -223,7 +224,6 @@
     "ESS_Module4/00. Module Objectives.md",
     "ESS_Module4/02. Memory at Runtime.md",
     "ESS_Module4/Assets",
-    "ESS_Module4/01. Memory Architecture and Layout.md",
     "ESS_Module4",
     "Module_3/Assets",
     "Module_3",
