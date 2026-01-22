@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Module_1/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,8 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "d542eafd98981f5f",
+  "active": "e79a3559abd70a2e",
   "lastOpenFiles": [
+    "Module_3/01. The Nature of Embedded Debugging.md",
+    "Module_3/03. A Debugging Case Study.md",
+    "Module_3/02. Hardware Level Debugging.md",
+    "Module_4/README.md",
+    "Module_2/README.md",
+    "Module_1/README.md",
+    "Module_1/P1_WhatIsBareMetalProgramming.md",
+    "README.md",
     "Module_4/Assets/9.jpg",
     "Module_4/Assets/8.jpg",
     "Module_4/Assets/7.jpg",
@@ -199,25 +207,19 @@
     "Module_4/03. Memory Failures.md",
     "Module_4/02. Memory at Runtime.md",
     "Module_4/01. Memory Architecture and Layout.md",
-    "Module_4/00. Module Objectives.md",
     "Module_4",
     "ESS_Module4/03. Memory Failures.md",
     "ESS_Module4/00. Module Objectives.md",
     "ESS_Module4/02. Memory at Runtime.md",
-    "ESS_Module4/Assets/8.jpg",
     "ESS_Module4/Assets",
     "ESS_Module4/01. Memory Architecture and Layout.md",
     "ESS_Module4",
     "Module_3/Assets",
-    "Module_3/03. A Debugging Case Study.md",
-    "Module_3/02. Hardware Level Debugging.md",
-    "Module_3/01. The Nature of Embedded Debugging.md",
     "Module_3",
     "ESS_Module3/01. The Nature of Embedded Debugging.md",
     "ESS_Module3/03. A Debugging Case Study.md",
     "ESS_Module3/02. Hardware Level Debugging.md",
     "ESS_Module3/Assets",
-    "ESS_Module3",
-    "README.md"
+    "ESS_Module3"
   ]
 }
