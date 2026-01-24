@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Module_4/03. Memory Failures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03. Memory Failures"
             }
           }
         ]
@@ -185,16 +185,16 @@
   },
   "active": "e79a3559abd70a2e",
   "lastOpenFiles": [
-    "Module_1/README.md",
-    "README.md",
-    "Module_2/README.md",
-    "Module_4/README.md",
-    "Module_4/03. Memory Failures.md",
     "Module_4/02. Memory at Runtime.md",
     "Module_4/01. Memory Architecture and Layout.md",
     "Module_3/03. A Debugging Case Study.md",
     "Module_3/02. Hardware Level Debugging.md",
     "Module_3/01. The Nature of Embedded Debugging.md",
+    "README.md",
+    "Module_1/README.md",
+    "Module_2/README.md",
+    "Module_4/README.md",
+    "Module_4/03. Memory Failures.md",
     "Module_3/Assets/4.png",
     "Module_3/Assets/Screenshot from 2026-01-24 10-18-13.png",
     "Module_3/Assets/3.png",
