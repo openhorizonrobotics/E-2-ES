@@ -18,7 +18,7 @@ Whether you're a student, an engineer returning to the basics, or a robotics ent
 
 > All content is structured in **progressive modules** with annotated code examples and original diagrams.
 
-Read the content in the [wiki](https://github.com/openhorizonrobotics/E-2-ES/wiki/02.-Module1_WhatIsBareMetalProgramming)!
+Read the content in the [wiki](https://github.com/openhorizonrobotics/E-2-ES/wiki)!
 
 ---
 ## Course Structure
