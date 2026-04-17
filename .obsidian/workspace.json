@@ -11,10 +11,14 @@
             "id": "3d2f7eb3c87f59e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Module_5/06. Integrating the VL53L1X Using ST's ULD API.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "06. Integrating the VL53L1X Using ST's ULD API"
             }
           }
         ]
@@ -179,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d542eafd98981f5f",
+  "active": "3d2f7eb3c87f59e9",
   "lastOpenFiles": [
     "Module_5/Module_5_Experiments.zip",
     "Module_4/03. Memory Failures.md",
