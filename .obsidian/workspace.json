@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_5/02. Writing a Driver for the MPU6050 IMU.md",
+                "file": "Module_5/05. Writing a Driver for the BME280 Environmental Sensor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Writing a Driver for the MPU6050 IMU"
+              "title": "05. Writing a Driver for the BME280 Environmental Sensor"
             }
           }
         ],
@@ -256,18 +256,18 @@
   },
   "active": "8e9188e7a737678a",
   "lastOpenFiles": [
-    "Module_4/01. Memory Architecture and Layout.md",
-    "Module_5/05. Writing a Driver for the BME280 Environmental Sensor.md",
     "Module_5/04. Writing a Driver for the PCA9685 PWM Distribution Board.md",
     "Module_5/03. Writing a Driver for the A4988 Stepper Motor Driver.md",
     "Module_5/02. Writing a Driver for the MPU6050 IMU.md",
+    "Module_4/01. Memory Architecture and Layout.md",
     "Module_4/02. Memory at Runtime.md",
+    "Module_4/08. Experiment 5.md",
+    "Module_5/05. Writing a Driver for the BME280 Environmental Sensor.md",
     "Module_5/Assets/1.jpg",
     "Module_5/01. How to Approach an Unfamiliar Device.md",
     "Module_1/01. What Is Bare Metal Programming?.md",
     "Module_4/04. Experiment 1.md",
     "Module_4/07. Experiment 4.md",
-    "Module_4/08. Experiment 5.md",
     "Module_2/04. Becoming Familiar With the Embedded Workflow.md",
     "Module_2/07. Timer Math.md",
     "Module_2/06. Flashing The Blue Pill With A Cheap STLink Clone.md",
