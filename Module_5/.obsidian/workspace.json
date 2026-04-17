@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2a16aef2f69cb91c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9ae0e422813a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4652ed2a958439e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Writing a Driver for the BME280 Environmental Sensor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. Writing a Driver for the BME280 Environmental Sensor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "246c4d4aad4fc76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7801012978296683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de69466c5a403246",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "715ae1f542260b2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0086df1276c43443",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faccf5a4f6e30201",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7600493f1fba024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34694b415ee78f53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "98c8b073b4fe4c4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "636592ea9d760960",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb3d59c273c50ced",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e2f938018b3adde3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d4652ed2a958439e",
+  "lastOpenFiles": [
+    "02. Writing a Driver for the MPU6050 IMU.md",
+    "04. Writing a Driver for the PCA9685 PWM Distribution Board.md",
+    "05. Writing a Driver for the BME280 Environmental Sensor.md",
+    "01. How to Approach an Unfamiliar Device.md",
+    "03. Writing a Driver for the A4988 Stepper Motor Driver.md",
+    "Assets/Untitled Project.jpg",
+    "Assets/WhatsApp Image 2026-04-16 at 2,30,24 PM-Picsart-CropImage.jpeg",
+    "Assets/WhatsApp Image 2026-04-16 at 2,30,25 PM (1)-Picsart-CropImage.jpeg",
+    "Assets/WhatsApp Image 2026-04-16 at 2,30,25 PM (2)-Picsart-CropImage.jpeg",
+    "Pasted image 20260416143211.png",
+    "Pasted image 20260416143147.png",
+    "Pasted image 20260416144034.png",
+    "Pasted image 20260416144008.png",
+    "Assets/Pasted image 20260416135521.png",
+    "Assets/Pasted image 20260416141910.png",
+    "05.",
+    "Assets",
+    "Welcome.md"
+  ]
+}
