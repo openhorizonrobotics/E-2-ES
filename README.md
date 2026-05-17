@@ -1,20 +1,21 @@
 # Embedded Systems from Source
 
-Welcome to **Embedded Systems from Source** — a hands-on, diagram-rich, and concept-first guide to mastering embedded systems through real-world thinking and bare-metal coding.
+Welcome to **Embedded Systems from Source**! This is a hands-on, diagram-rich, and concept-first guide to mastering embedded systems through the context of robotics systems.
 
-Whether you're a student, an engineer returning to the basics, or a robotics enthusiast tired of YouTube rabbit holes — this course is for you.
+Whether you're a student, an engineer returning to the basics, or a robotics enthusiast tired of YouTube rabbit holes -- this course is for you.
 
 ---
 ## What You'll Learn
 
-- How microcontrollers actually work — not just how to use libraries
+- How microcontrollers actually work, not just how to use libraries
 - Pointers, memory maps, and register-level control
 - GPIO, timers, interrupts, and serial protocols (USART, I2C, SPI)
 - The startup sequence and what happens before `main()`
 - How to debug embedded systems like an engineer, not a guesser
 - Toolchain pipeline: from code to binary to flash
 - How to read a datasheet without your eyes glazing over
-- (And eventually) how to write your own drivers
+- How to write your own drivers
+- How production code is different from amateur code.
 
 > All content is structured in **progressive modules** with annotated code examples and original diagrams.
 
@@ -51,8 +52,6 @@ This is a read-first, code-later course. To follow along:
 2. Open each module `.md` file in order.
 3. Optional: Use [Obsidian](https://obsidian.md/) for a local, interactive Markdown experience.
 
-> Bonus: Code samples are provided in `/Module_1/CodeExamples` and written for the STM32F103 (Blue Pill), and the STM32F407 Discovery Board.
-
 ---
 ## Credits
 
@@ -67,11 +66,11 @@ Too many embedded tutorials either:
 - Skip the "why" and go straight to "copy this code"
 - Assume you're already an EE grad with 10 years of experience
 
-This course bridges the gap — combining **clarity, practicality, and depth** — for anyone who wants to understand embedded systems from the inside out.
+This course combines **clarity, practicality, and depth**, for anyone who wants to understand embedded systems from the inside out.
 
 ---
 ## Feedback
 
-Got a bug, question, or insight? Open an issue or start a discussion — this course is meant to evolve with its learners.
+Got a bug, question, or insight? Open an issue or start a discussion. This course is meant to evolve with its learners.
 
 ---
