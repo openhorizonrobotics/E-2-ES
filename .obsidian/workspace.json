@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_7/04. Defensive Programming Patterns.md",
+                "file": "Module_7/10. Code Review and the Professional Development Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Defensive Programming Patterns"
+              "title": "10. Code Review and the Professional Development Workflow"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "3d2f7eb3c87f59e9",
   "lastOpenFiles": [
+    "Module_7/04. Defensive Programming Patterns.md",
     "Module_7/05. Modern C++ for Robotics.md",
     "Module_7/01. Code in Production Environments.md",
     "Module_7/08. Documentation as an Engineering Artifact.md",
     "Module_7/07. Structuring Large C or C++ Projects.md",
     "Module_7/06. Static Analysis and Automated Enforcement.md",
-    "Module_7/04. Defensive Programming Patterns.md",
     "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
     "Module_7/02. Coding Standards -- MISRA and AUTOSAR.md",
     "Module_6/01. Project 1.md",
