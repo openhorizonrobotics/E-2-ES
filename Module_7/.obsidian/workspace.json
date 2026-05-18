@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "f3b63d16210bfa43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b29e7527d4115b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e184eab3c1a9d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Code in Production Environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Code in Production Environments"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "550a2da5e96c54ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae43b0a1dc68e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117537eb3d8e5c14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30a492fb0630e547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b1def2641401cad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edf1a3542a68c2de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a55469a932eb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b513376abb2dddc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. When Software Kills - The Case for Standards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01. When Software Kills - The Case for Standards"
+            }
+          },
+          {
+            "id": "0d637d18ad0fa725",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. When Software Kills - The Case for Standards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01. When Software Kills - The Case for Standards"
+            }
+          },
+          {
+            "id": "e34833d2c4d069fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6abd40df34fc0b4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d76981ac4a6ebb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. When Software Kills - The Case for Standards.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01. When Software Kills - The Case for Standards"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6e184eab3c1a9d81",
+  "lastOpenFiles": [
+    "10. Code Review and the Professional Development Workflow.md",
+    "09. Testing Strategies for Embedded and Robotics Code.md",
+    "08. Documentation as an Engineering Artifact.md",
+    "07. Structuring Large C or C++ Projects.md",
+    "06. Static Analysis and Automated Enforcement.md",
+    "05. Modern C++ for Robotics.md",
+    "04. Defensive Programming Patterns.md",
+    "03. Undefined Behavior and the C++ Abstract Machine.md",
+    "02. Coding Standards -- MISRA and AUTOSAR.md",
+    "01. Code in Production Environments.md",
+    "Pasted image 20260518205123.png",
+    "Assets/8.png",
+    "Assets/7.png",
+    "Assets/7.png",
+    "Assets/6.png",
+    "Untitled.md",
+    "Assets/5.png",
+    "Assets/4.png",
+    "Assets/3.png",
+    "Assets/2.png",
+    "Pasted image 20260515105714.png",
+    "Assets"
+  ]
+}
