@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_8/05. Assembly and Bring-Up.md",
+                "file": "Module_6/03. Project 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Assembly and Bring-Up"
+              "title": "03. Project 3"
             }
           }
         ],
@@ -200,12 +200,15 @@
   },
   "active": "4bc5699b50d01aa5",
   "lastOpenFiles": [
+    "Module_6/02. Project 2.md",
+    "Module_6/01. Project 1.md",
+    "Module_5/06. Integrating the VL53L1X Using ST's ULD API.md",
+    "Module_8/05. Assembly and Bring-Up.md",
     "Module_8/04. The PCB Layout.md",
     "Module_8/03. The Schematic.md",
     "Module_8/02. Introduction to KiCAD.md",
     "Module_8/01. Project Description.md",
     "Module_7/01. Code in Production Environments.md",
-    "Module_8/05. Assembly and Bring-Up.md",
     "Module_8/IntegratorBoard.zip",
     "Module_8/Assets/47.png",
     "Module_8/Assets/46.png",
@@ -218,8 +221,6 @@
     "Module_8/Assets/41.png",
     "Module_8/Assets/40.png",
     "Module_6/03. Project 3.md",
-    "Module_6/02. Project 2.md",
-    "Module_6/01. Project 1.md",
     "Module_7/05. Modern C++ for Robotics.md",
     "Module_7/02. Coding Standards -- MISRA and AUTOSAR.md",
     "Module_8/Assets",
@@ -230,7 +231,6 @@
     "Module_7/07. Structuring Large C or C++ Projects.md",
     "Module_7/06. Static Analysis and Automated Enforcement.md",
     "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
-    "Module_5/06. Integrating the VL53L1X Using ST's ULD API.md",
     "Module_6/Assets",
     "Module_6",
     "Module_6/Module_6/Assets",
