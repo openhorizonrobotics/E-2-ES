@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa159d538e810f4",
+        "id": "2a259b1f052564fc",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2f7eb3c87f59e9",
+            "id": "48f52f3271decac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_7/05. Modern C++ for Robotics.md",
+                "file": "Module_8/05. Assembly and Bring-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Modern C++ for Robotics"
+              "title": "05. Assembly and Bring-Up"
             }
           }
         ]
@@ -183,33 +183,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d2f7eb3c87f59e9",
+  "active": "48f52f3271decac0",
   "lastOpenFiles": [
+    "Module_8/04. The PCB Layout.md",
+    "Module_8/03. The Schematic.md",
+    "Module_8/02. Introduction to KiCAD.md",
+    "Module_8/01. Project Description.md",
+    "Module_8/05. Assembly and Bring-Up.md",
+    "Module_8/Assets/47.png",
+    "Module_8/Assets/46.png",
+    "Module_8/Assets/45.png",
+    "Pasted image 20260615102940.png",
+    "Module_8/Assets/44.png",
+    "Pasted image 20260615101309.png",
+    "Module_8/Assets/43.png",
+    "Module_8/Assets/42.png",
+    "Module_8/Assets/41.png",
+    "Module_8/Assets/40.png",
+    "Module_6/03. Project 3.md",
+    "Module_6/02. Project 2.md",
+    "Module_6/01. Project 1.md",
+    "Module_7/05. Modern C++ for Robotics.md",
+    "Module_7/02. Coding Standards -- MISRA and AUTOSAR.md",
+    "Module_7/01. Code in Production Environments.md",
+    "Module_8/Assets",
+    "Module_8",
     "Module_7/10. Code Review and the Professional Development Workflow.md",
     "Module_7/04. Defensive Programming Patterns.md",
-    "Module_7/05. Modern C++ for Robotics.md",
-    "Module_7/01. Code in Production Environments.md",
     "Module_7/08. Documentation as an Engineering Artifact.md",
     "Module_7/07. Structuring Large C or C++ Projects.md",
     "Module_7/06. Static Analysis and Automated Enforcement.md",
     "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
-    "Module_7/02. Coding Standards -- MISRA and AUTOSAR.md",
-    "Module_6/01. Project 1.md",
     "Module_5/06. Integrating the VL53L1X Using ST's ULD API.md",
-    "Module_6/Assets/6.png",
-    "Module_6/Assets/5.png",
-    "Module_6/Assets/3.png",
-    "Module_6/Assets/7.png",
-    "Module_6/Assets/4.png",
-    "Module_6/Assets/2.png",
-    "Module_6/Assets/1.png",
     "Module_6/Assets",
-    "Module_6/03. Project 3.md",
-    "Module_6/02. Project 2.md",
     "Module_6",
-    "Module_6/Module_6/Assets/6.png",
-    "Module_6/Module_6/Assets/5.png",
-    "Module_6/Module_6/Assets/3.png",
     "Module_6/Module_6/Assets",
     "Module_6/Module_6/03. Project 3.md",
     "Module_6/Module_6/02. Project 2.md",
@@ -220,16 +227,8 @@
     "Module_4/04. Experiment 1.md",
     "Module_4/05. Experiment 2.md",
     "Module_4/06. Experiment 3.md",
-    "Module_4/07. Experiment 4.md",
-    "Module_5/05. Writing a Driver for the BME280 Environmental Sensor.md",
     "VL53L1X_api 2.h",
     "VL53L1X_api 1.h",
-    "VL53L1X_api.h",
-    "Module_5/04. Writing a Driver for the PCA9685 PWM Distribution Board.md",
-    "Module_5/03. Writing a Driver for the A4988 Stepper Motor Driver.md",
-    "Module_5/02. Writing a Driver for the MPU6050 IMU.md",
-    "Module_5/01. How to Approach an Unfamiliar Device.md",
-    "Module_4/Module_4_Experiments.zip",
-    "Module_4/Assets"
+    "VL53L1X_api.h"
   ]
 }
