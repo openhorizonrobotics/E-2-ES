@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_8/04. The PCB Layout.md",
+                "file": "Module_8/02. Introduction to KiCAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. The PCB Layout"
+              "title": "02. Introduction to KiCAD"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "4bc5699b50d01aa5",
   "lastOpenFiles": [
-    "Module_8/05. Assembly and Bring-Up.md",
     "Module_8/04. The PCB Layout.md",
+    "Module_8/05. Assembly and Bring-Up.md",
     "Module_8/03. The Schematic.md",
     "Module_8/02. Introduction to KiCAD.md",
     "Module_8/01. Project Description.md",
