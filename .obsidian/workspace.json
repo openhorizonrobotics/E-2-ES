@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2a259b1f052564fc",
+        "id": "c2887f5d8105c61a",
         "type": "tabs",
         "children": [
           {
-            "id": "48f52f3271decac0",
+            "id": "37a4849142d74be8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module_7/01. Code in Production Environments.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01. Code in Production Environments"
-            }
-          },
-          {
-            "id": "4bc5699b50d01aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module_8/05. Assembly and Bring-Up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05. Assembly and Bring-Up"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 409.5
   },
   "right": {
     "id": "c3727ebc841f4ae6",
@@ -198,53 +179,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "4bc5699b50d01aa5",
+  "active": "d542eafd98981f5f",
   "lastOpenFiles": [
+    "Module_9/Module_9_Experiments.zip",
+    "Module_9/01. Why RTOS?.md",
+    "Module_9/06. RTOS Experiment 3.md",
+    "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
+    "Module_9/05. RTOS Experiment 2.md",
+    "Module_9/04. RTOS Experiment 1.md",
+    "Module_9/03. FreeRTOS on STM32 with CubeIDE.md",
+    "Module_9/02. Core Concepts.md",
+    "Module_9/Assets/24.png",
+    "Module_9/Assets/23.png",
+    "Pasted image 20260622121003.png",
+    "Pasted image 20260622120942.png",
+    "Module_9/Assets/22.png",
+    "Module_9/Assets/21.png",
+    "How to Import my STM32 Projects Into Your Workspace.md",
+    "Module_9/Assets/15.gif",
+    "Module_1/01. What Is Bare Metal Programming?.md",
+    "Module_9/Assets/16.gif",
+    "Module_9/Assets/WhatsApp Video 2026-06-17 at 11.46.26 PM.gif",
+    "Module_9/Assets/20.png",
+    "Module_2/04. Becoming Familiar With the Embedded Workflow.md",
+    "Closing Note.md",
+    "Module_3/01. The Nature of Embedded Debugging.md",
+    "Module_7/01. Code in Production Environments.md",
+    "Module_8/01. Project Description.md",
+    "Module_8/05. Assembly and Bring-Up.md",
+    "Assets",
+    "Module_5/03. Writing a Driver for the A4988 Stepper Motor Driver.md",
+    "Module_9/Assets",
+    "Module_9",
     "Module_8/04. The PCB Layout.md",
     "Module_8/03. The Schematic.md",
     "Module_8/02. Introduction to KiCAD.md",
-    "Module_8/01. Project Description.md",
-    "Module_8/05. Assembly and Bring-Up.md",
     "Module_7/10. Code Review and the Professional Development Workflow.md",
     "Module_7/09. Testing Strategies for Embedded and Robotics Code.md",
     "Module_7/08. Documentation as an Engineering Artifact.md",
     "Module_7/07. Structuring Large C or C++ Projects.md",
     "Module_7/06. Static Analysis and Automated Enforcement.md",
     "Module_7/05. Modern C++ for Robotics.md",
-    "Module_7/04. Defensive Programming Patterns.md",
-    "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
-    "Module_7/02. Coding Standards -- MISRA and AUTOSAR.md",
-    "Module_7/01. Code in Production Environments.md",
-    "Module_6/03. Project 3.md",
-    "Module_6/02. Project 2.md",
-    "Module_6/01. Project 1.md",
-    "Module_5/06. Integrating the VL53L1X Using ST's ULD API.md",
     "Module_8/IntegratorBoard.zip",
-    "Module_8/Assets/47.png",
-    "Module_8/Assets/46.png",
-    "Module_8/Assets/45.png",
-    "Pasted image 20260615102940.png",
-    "Module_8/Assets/44.png",
-    "Pasted image 20260615101309.png",
-    "Module_8/Assets/43.png",
-    "Module_8/Assets/42.png",
-    "Module_8/Assets/41.png",
-    "Module_8/Assets/40.png",
     "Module_8/Assets",
     "Module_8",
     "Module_6/Assets",
     "Module_6",
     "Module_6/Module_6/Assets",
-    "Module_6/Module_6/03. Project 3.md",
-    "Module_6/Module_6/02. Project 2.md",
-    "Module_6/Module_6/01. Project 1.md",
-    "Module_6/Module_6",
-    "Module_5/Module_5_Experiments.zip",
-    "Module_4/03. Memory Failures.md",
-    "Module_4/04. Experiment 1.md",
-    "Module_4/05. Experiment 2.md",
-    "Module_4/06. Experiment 3.md",
-    "VL53L1X_api 2.h",
-    "VL53L1X_api 1.h"
+    "Module_6/Module_6"
   ]
 }
