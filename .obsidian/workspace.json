@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_9/01. Why RTOS?.md",
+                "file": "Module_9/03. FreeRTOS on STM32 with CubeIDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Why RTOS?"
+              "title": "03. FreeRTOS on STM32 with CubeIDE"
             }
           },
           {
@@ -199,15 +199,15 @@
   },
   "active": "37a4849142d74be8",
   "lastOpenFiles": [
-    "Module_1/01. What Is Bare Metal Programming?.md",
+    "Module_9/02. Core Concepts.md",
     "Module_9/01. Why RTOS?.md",
+    "Module_1/01. What Is Bare Metal Programming?.md",
     "Module_9/Module_9_Experiments.zip",
     "Module_9/06. RTOS Experiment 3.md",
     "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
     "Module_9/05. RTOS Experiment 2.md",
     "Module_9/04. RTOS Experiment 1.md",
     "Module_9/03. FreeRTOS on STM32 with CubeIDE.md",
-    "Module_9/02. Core Concepts.md",
     "Module_9/Assets/24.png",
     "Module_9/Assets/23.png",
     "Pasted image 20260622121003.png",
