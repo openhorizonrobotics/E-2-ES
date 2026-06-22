@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_9/06. RTOS Experiment 3.md",
+                "file": "Module_1/01. What Is Bare Metal Programming?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06. RTOS Experiment 3"
+              "title": "01. What Is Bare Metal Programming?"
             }
           },
           {
@@ -199,6 +199,7 @@
   },
   "active": "37a4849142d74be8",
   "lastOpenFiles": [
+    "Module_9/06. RTOS Experiment 3.md",
     "Module_9/05. RTOS Experiment 2.md",
     "Module_9/04. RTOS Experiment 1.md",
     "Module_9/03. FreeRTOS on STM32 with CubeIDE.md",
@@ -207,7 +208,6 @@
     "How to Import my STM32 Projects Into Your Workspace.md",
     "Module_1/01. What Is Bare Metal Programming?.md",
     "Module_9/Module_9_Experiments.zip",
-    "Module_9/06. RTOS Experiment 3.md",
     "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
     "Module_9/Assets_9/24.png",
     "Module_9/Assets_9/23.png",
