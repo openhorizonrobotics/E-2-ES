@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bonus Module/01. PID Experiment 1.md",
+                "file": "Module_2/03. Introduction to the STM32CubeIDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. PID Experiment 1"
+              "title": "03. Introduction to the STM32CubeIDE"
             }
           }
         ]
@@ -183,19 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "f5cf660166c14b6f",
+  "active": "d542eafd98981f5f",
   "lastOpenFiles": [
+    "BonusModule/README.md",
+    "BonusModule/PID_Control.ipynb",
+    "BonusModule/pid_control.py",
+    "BonusModule/LICENSE",
+    "BonusModule/04. PID Experiment 4.md",
+    "BonusModule/03. PID Experiment 3.md",
+    "BonusModule/02. PID Experiment 2.md",
+    "BonusModule/01. PID Experiment 1.md",
+    "BonusModule/Assets/9.png",
+    "BonusModule/Assets/8.png",
+    "BonusModule/Assets/7.png",
+    "BonusModule/Assets/6.png",
+    "BonusModule/Assets/5.png",
+    "BonusModule/Assets/4.png",
+    "BonusModule/Assets/3.png",
+    "BonusModule/Assets/2.png",
+    "BonusModule/Assets/17.png",
+    "BonusModule/Assets/16.png",
+    "BonusModule/Assets",
+    "BonusModule",
+    "Bonus_Module",
     "Module_2/03. Introduction to the STM32CubeIDE.md",
-    "Bonus Module/Assets/9.png",
-    "Bonus Module/Assets/8.png",
-    "Bonus Module/Assets/7.png",
-    "Bonus Module/Assets/6.png",
-    "Bonus Module/Assets/5.png",
-    "Bonus Module/Assets/4.png",
-    "Bonus Module/Assets/3.png",
-    "Bonus Module/Assets/2.png",
-    "Bonus Module/Assets/17.png",
-    "Bonus Module/Assets/16.png",
     "Bonus Module/pid_control.py",
     "Bonus Module/README.md",
     "Bonus Module/PID_Control.ipynb",
@@ -205,7 +216,6 @@
     "Bonus Module/03. PID Experiment 3.md",
     "Bonus Module/02. PID Experiment 2.md",
     "Bonus Module/01. PID Experiment 1.md",
-    "Bonus Module",
     "Module_4/07. Experiment 4.md",
     "Module_9/06. RTOS Experiment 3.md",
     "Module_1/01. What Is Bare Metal Programming?.md",
@@ -220,16 +230,6 @@
     "Module_4/05. Experiment 2.md",
     "Module_4/04. Experiment 1.md",
     "Module_4/03. Memory Failures.md",
-    "Module_4/02. Memory at Runtime.md",
-    "Module_4/01. Memory Architecture and Layout.md",
-    "Module_3/01. The Nature of Embedded Debugging.md",
-    "Module_3/02. Hardware Level Debugging.md",
-    "Module_3/03. A Debugging Case Study.md",
-    "Module_6/01. Project 1.md",
-    "Module_9/Module_9_Experiments.zip",
-    "Assets_0",
-    "Module_9/Assets_9",
-    "Module_9",
-    "Module_8/IntegratorBoard.zip"
+    "Module_4/02. Memory at Runtime.md"
   ]
 }
