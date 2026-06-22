@@ -11,10 +11,28 @@
             "id": "37a4849142d74be8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Module_9/01. Why RTOS?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01. Why RTOS?"
+            }
+          },
+          {
+            "id": "868396fbaa76dad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module_1/01. What Is Bare Metal Programming?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. What Is Bare Metal Programming?"
             }
           }
         ]
@@ -179,10 +197,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d542eafd98981f5f",
+  "active": "37a4849142d74be8",
   "lastOpenFiles": [
-    "Module_9/Module_9_Experiments.zip",
+    "Module_1/01. What Is Bare Metal Programming?.md",
     "Module_9/01. Why RTOS?.md",
+    "Module_9/Module_9_Experiments.zip",
     "Module_9/06. RTOS Experiment 3.md",
     "Module_7/03. Undefined Behavior and the C++ Abstract Machine.md",
     "Module_9/05. RTOS Experiment 2.md",
@@ -197,7 +216,6 @@
     "Module_9/Assets/21.png",
     "How to Import my STM32 Projects Into Your Workspace.md",
     "Module_9/Assets/15.gif",
-    "Module_1/01. What Is Bare Metal Programming?.md",
     "Module_9/Assets/16.gif",
     "Module_9/Assets/WhatsApp Video 2026-06-17 at 11.46.26 PM.gif",
     "Module_9/Assets/20.png",
@@ -225,7 +243,6 @@
     "Module_8",
     "Module_6/Assets",
     "Module_6",
-    "Module_6/Module_6/Assets",
-    "Module_6/Module_6"
+    "Module_6/Module_6/Assets"
   ]
 }
