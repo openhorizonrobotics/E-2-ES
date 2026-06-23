@@ -1,12 +1,12 @@
 # Embedded Systems From Source
 
 <p align="center">
-<img height="150" alt="image" src="https://github.com/user-attachments/assets/0fea4c0a-3b52-4a89-a596-89d595b98dbe" />
-<img height="150" alt="image" src="https://github.com/user-attachments/assets/9c009e89-57f6-4a77-bb4b-9e8a5fd2f33a" />
-<img height="150" alt="image" src="https://github.com/user-attachments/assets/819b4400-81a5-4c02-9f33-e9e74eadb87b" />
-<img height="180" alt="image" src="https://github.com/user-attachments/assets/7829ec49-e25c-454f-9f81-f1ecf9e696e9" />
-<img height="180" alt="image" src="https://github.com/user-attachments/assets/ca55c03d-e2a0-4379-825e-1f27169991d9" />
-<img height="180" alt="image" src="https://github.com/user-attachments/assets/8b10cd63-6c59-4391-9c37-2e1f4d7e416b" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/0fea4c0a-3b52-4a89-a596-89d595b98dbe" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/9c009e89-57f6-4a77-bb4b-9e8a5fd2f33a" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/819b4400-81a5-4c02-9f33-e9e74eadb87b" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/7829ec49-e25c-454f-9f81-f1ecf9e696e9" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/ca55c03d-e2a0-4379-825e-1f27169991d9" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/8b10cd63-6c59-4391-9c37-2e1f4d7e416b" />
 </p>
 If you've been working in robotics on the software side (writing ROS nodes, training models, planning paths) and you've wondered what's actually happening closer to the metal, this course is for you.<br>
 This is an embedded systems course built specifically for aspiring robotics engineers and mechatronics undergrads who already have a grip on basic electronics and want to go deeper into hardware.<br>
@@ -14,22 +14,22 @@ It won't hold your hand through Ohm's law. It will however, take you from microc
 The images here are a glimpse of what you can expect:
 <br><br/>
 <p align="center">
-<img height="160" alt="image" src="https://github.com/user-attachments/assets/2e68ddf3-8c4e-44d8-85e2-e4a0fb0f3a03" />
-<img height="160" alt="image" src="https://github.com/user-attachments/assets/36d1362b-3d3f-4eb4-b0ed-57f73cb0c5de" />
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/a0132d9d-8648-4ca8-8964-0eeba6831631" />
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/2293b908-802c-4ec2-a5bc-844761a838a1" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/2e68ddf3-8c4e-44d8-85e2-e4a0fb0f3a03" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/36d1362b-3d3f-4eb4-b0ed-57f73cb0c5de" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/a0132d9d-8648-4ca8-8964-0eeba6831631" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/2293b908-802c-4ec2-a5bc-844761a838a1" />
 </p>
 Everything here was built around the STM32F4 Discovery board, and experiments were run on real hardware.
 Every result you see was captured on either a serial terminal or a logic analyser.
 This course was developed in collaboration with Open Horizon Robotics.
 <br><br/>
 <p align="center">
-<img height="210" alt="image" src="https://github.com/user-attachments/assets/8343a280-5d73-495e-be41-afa75355c688" />
-<img height="210" alt="image" src="https://github.com/user-attachments/assets/c0054387-9e3e-429a-a06d-83c8fd58bb34" />
-<img height="210" alt="image" src="https://github.com/user-attachments/assets/356e0343-721a-4013-a29f-e23d195c54c2" />
-<img height="210" alt="image" src="https://github.com/user-attachments/assets/25a3693e-6fde-4e0c-93b7-65799b735f78" />
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/7d1bdfdc-98b8-4db1-a48a-21d7f0021ce4" />
-<img height="250" alt="image" src="https://github.com/openhorizonrobotics/E-2-ES/raw/main/Module_9/Assets_9/15.gif" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/8343a280-5d73-495e-be41-afa75355c688" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/c0054387-9e3e-429a-a06d-83c8fd58bb34" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/356e0343-721a-4013-a29f-e23d195c54c2" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/25a3693e-6fde-4e0c-93b7-65799b735f78" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/7d1bdfdc-98b8-4db1-a48a-21d7f0021ce4" />
+<img height="100" alt="image" src="https://github.com/openhorizonrobotics/E-2-ES/raw/main/Module_9/Assets_9/15.gif" />
 </p>
 
 ---
