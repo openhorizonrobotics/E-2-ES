@@ -1,25 +1,11 @@
-# Embedded Systems from Source
+# Embedded Systems From Source
 
-Welcome to **Embedded Systems from Source**! This is a hands-on, diagram-rich, and concept-first guide to mastering embedded systems through the context of robotics systems.
+If you've been working in robotics on the software side (writing ROS nodes, training models, planning paths) and you've wondered what's actually happening closer to the metal, this course is for you.
+This is an embedded systems course built specifically for aspiring robotics engineers and mechatronics undergrads who already have a grip on basic electronics and want to go deeper into hardware. It won't hold your hand through Ohm's law. It will however, take you from microcontroller fundamentals all the way through writing device drivers, designing a PCB, and running concurrent tasks on an RTOS; all with working experiments at every step.
 
-Whether you're a student, an engineer returning to the basics, or a robotics enthusiast tired of YouTube rabbit holes -- this course is for you.
-
----
-## What You'll Learn
-
-- How microcontrollers actually work, not just how to use libraries
-- Pointers, memory maps, and register-level control
-- GPIO, timers, interrupts, and serial protocols (USART, I2C, SPI)
-- The startup sequence and what happens before `main()`
-- How to debug embedded systems like an engineer, not a guesser
-- Toolchain pipeline: from code to binary to flash
-- How to read a datasheet without your eyes glazing over
-- How to write your own drivers
-- How production code is different from amateur code.
-
-> All content is structured in **progressive modules** with annotated code examples and original diagrams.
-
-Read the content in the [wiki](https://github.com/openhorizonrobotics/E-2-ES/wiki)!
+Everything here was built around the STM32F4 Discovery board, and experiments were run on real hardware.
+Every result you see was captured on either a serial terminal or a logic analyser.
+This course was developed in collaboration with Open Horizon Robotics.
 
 ---
 ## Course Structure
