@@ -57,7 +57,7 @@ This course was developed in collaboration with Open Horizon Robotics.
 Many of the modules include a `.zip` file containing all code and project files for that module's experiments. These are STM32CubeIDE or KiCAD projects and can be imported directly into your workspace. You'll find them in each module's directory in this repository.
 
 ---
-### Credits
+## Credits
 
 This course was developed in collaboration with **Open Horizon Robotics**.
 
