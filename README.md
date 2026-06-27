@@ -57,13 +57,30 @@ This course was developed in collaboration with Open Horizon Robotics.
 Many of the modules include a `.zip` file containing all code and project files for that module's experiments. These are STM32CubeIDE or KiCAD projects and can be imported directly into your workspace. You'll find them in each module's directory in this repository.
 
 ---
-## How This Course Was Made
+### Credits
 
-Part of the writing and code in this course were produced with the assistance of **Claude**, an LLM developed by Anthropic; and **ChatGPT**, an LLM produced by OpenAI.
+This course was developed in collaboration with **Open Horizon Robotics**.
 
-All written content was reviewed and edited by myself before publication. All experiment code was validated on real STM32 hardware, with results captured on a serial terminal or a logic analyser.
+| Contribution            | Credit         |
+| ----------------------- | -------------- |
+| Writing and LLM Prompts | Mukul Yadav    |
+| Diagrams and Figures    | Mukul Yadav    |
+| Hardware Experiments    | Mukul Yadav    |
+| Image and Data Capture  | Mukul Yadav    |
+| Review and Feedback     | Neehal Sharrma |
 
-Many of the diagrams and figures throughout the course were designed manually in **Excalidraw**. All photographs, oscilloscope captures, and logic analyser traces were captured by hand. The Integration Board in Module 8 -- schematic, PCB layout, fabrication, assembly, and bring-up -- was designed and built from scratch.
+**AI Assistance**
+
+Portions of the written content and experiment code in this course were drafted with the assistance of large language models. All AI-generated content was reviewed, edited, and validated against real hardware experiments before publication.
+
+| Model             | Developer | Used For                 |
+| ----------------- | --------- | ------------------------ |
+| Claude Sonnet 4.6 | Anthropic | Writing, code generation |
+| GPT 4.0           | OpenAI    | Writing, code generation |
+
+**Third-Party Content**
+
+Where third-party images, diagrams, or other materials appear in this course, attribution is provided inline at the point of use. All datasheet and reference manual content is the property of the respective manufacturers.
 
 ---
 ## Get Involved

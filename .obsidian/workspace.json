@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module_2/01. Choosing a Microcontroller Family.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Choosing a Microcontroller Family"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "f5cf660166c14b6f",
   "lastOpenFiles": [
+    "Module_2/01. Choosing a Microcontroller Family.md",
     "Module_1/03. Registers & The Memory Map.md",
     "Module_1/02. Anatomy Of A Microcontroller.md",
     "Module_1/Assets_1/PinMultiplexing/Stm32f103_pinout_CC.png",
@@ -229,7 +230,6 @@
     "Module_9/06. RTOS Experiment 3.md",
     "Module_5/06. Integrating the VL53L1X Using ST's ULD API.md",
     "Module_5/05. Writing a Driver for the BME280 Environmental Sensor.md",
-    "Module_5/04. Writing a Driver for the PCA9685 PWM Distribution Board.md",
-    "Module_5/03. Writing a Driver for the A4988 Stepper Motor Driver.md"
+    "Module_5/04. Writing a Driver for the PCA9685 PWM Distribution Board.md"
   ]
 }
