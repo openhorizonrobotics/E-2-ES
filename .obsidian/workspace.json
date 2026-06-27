@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Module_4/01. Memory Architecture and Layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01. Memory Architecture and Layout"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "f5cf660166c14b6f",
   "lastOpenFiles": [
+    "README.md",
     "Module_2/01. Choosing a Microcontroller Family.md",
     "Module_1/03. Registers & The Memory Map.md",
     "Module_1/02. Anatomy Of A Microcontroller.md",
     "Module_1/Assets_1/PinMultiplexing/Stm32f103_pinout_CC.png",
     "Module_1/01. What Is Bare Metal Programming?.md",
-    "README.md",
     "Module_1/Assets_1/MCUBlockDiagram/RM0008BlockDiagram.png",
     "Module_1/Assets_1/MCUBlockDiagram/Blue_Pill_CC.jpg",
     "Module_1/Assets_1/MCUBlockDiagram/BluepillBlockDiagram_CS.png",
