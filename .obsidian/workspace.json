@@ -11,10 +11,14 @@
             "id": "6cff89a0f44647ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Module_7/06. Static Analysis and Automated Enforcement.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "06. Static Analysis and Automated Enforcement"
             }
           }
         ]
@@ -179,12 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "d542eafd98981f5f",
+  "active": "6cff89a0f44647ab",
   "lastOpenFiles": [
-    "Module_4/Assets_4/10.png",
-    "Module_4/02. Memory at Runtime.md",
+    "Module_7/02. Coding Standards -- MISRA and AUTOSAR.md",
+    "Module_6/03. Project 3.md",
+    "Module_6/02. Project 2.md",
+    "Module_6/01. Project 1.md",
+    "Module_5/04. Writing a Driver for the PCA9685 PWM Distribution Board.md",
+    "Module_5/03. Writing a Driver for the A4988 Stepper Motor Driver.md",
     "Module_4/03. Memory Failures.md",
+    "Module_4/02. Memory at Runtime.md",
     "Module_4/01. Memory Architecture and Layout.md",
+    "Module_4/Assets_4/10.png",
     "README.md",
     "Module_2/01. Choosing a Microcontroller Family.md",
     "Module_1/03. Registers & The Memory Map.md",
@@ -200,7 +210,6 @@
     "Bonus Module/Assets/7.png",
     "Bonus Module/Assets/6.png",
     "Bonus Module/Assets/5.png",
-    "Bonus Module/Assets/4.png",
     "Bonus Module/pid_control.py",
     "Bonus Module/README.md",
     "Bonus Module/PID_Control.ipynb",
@@ -221,11 +230,6 @@
     "Module_10_Bonus/02. PID Experiment 2.md",
     "Module_10_Bonus/01. PID Experiment 1.md",
     "Module_10_Bonus",
-    "BonusModule/README.md",
-    "BonusModule/04. PID Experiment 4.md",
-    "BonusModule/03. PID Experiment 3.md",
-    "BonusModule/02. PID Experiment 2.md",
-    "BonusModule/01. PID Experiment 1.md",
-    "Module_4/07. Experiment 4.md"
+    "BonusModule/README.md"
   ]
 }
