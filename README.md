@@ -1,4 +1,4 @@
-# Embedded Systems From Source
+# Embedded Systems for Robotics
 
 <p align="center">
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/0fea4c0a-3b52-4a89-a596-89d595b98dbe" />
